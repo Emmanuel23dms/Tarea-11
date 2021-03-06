@@ -1,5 +1,5 @@
 Gestion se refiere a un contexto mas particular donde se hace 
-cargo de un proceso en especifico mientras administracion 
-se refiere a un contexto general donde se organizan y controlan 
+cargo de un proceso en especifico mientras administracion se 
+refiere a un contexto general donde se organizan y controlan 
 distintos recursos
 
