@@ -1,0 +1,2 @@
+Organizacion: Es la forma en la que se crean las estructuras las cuales administran los distintos recursos y actividades con el fin de llegar aun objetivo de funcion social 
+Ejemplo: La creacion de una aplicacion con fines academicos, donde se tiene que hacer investigacion, trabajo de campo, conteo de recursos, investigacion de perfil de posibles usuarios, etc.
